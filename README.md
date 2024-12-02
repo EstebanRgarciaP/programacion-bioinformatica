@@ -6,7 +6,7 @@ En este repositorio encontrarás tres carpetas, cada una correspondiente a una e
 
 - **Garcia_Esteban_entrega1**
 - **Garcia_Esteban_entrega2**
-- **Garcia_Esteban_entrega2**
+- **Garcia_Esteban_entrega3**
 
 Cada carpeta contiene los archivos y recursos necesarios para las entregas correspondientes. Si necesitas más detalles sobre el contenido de cada entrega, no dudes en revisar los archivos dentro de cada carpeta.
 
