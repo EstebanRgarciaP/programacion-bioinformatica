@@ -19,7 +19,6 @@ Este repositorio corresponde a la **primera entrega** de la materia **Fundamento
 - **Tutorial de creación de cuenta en GitHub:**
   - Instrucciones paso a paso.
   - Capturas de pantalla y explicaciones detalladas para que cualquier usuario pueda crear y configurar su cuenta.
-  - Incluye información adicional sobre buenas prácticas al usar GitHub.
 
 ## Detalles del Proyecto
 
