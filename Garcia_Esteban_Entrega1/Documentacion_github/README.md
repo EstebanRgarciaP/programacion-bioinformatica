@@ -15,27 +15,27 @@ Este documento proporciona una guía detallada para crear una cuenta en GitHub, 
 
 ### 1. **Acceder a GitHub**
    - Abre tu navegador y visita [github.com](https://github.com).
+    ![Acceder a GitHub](https://github.com/EstebanRgarciaP/programacion-bioinformatica/blob/main/Garcia_Esteban_Entrega1/Documentacion_github/imagenes/imagenespaso1.png.png)
 
 ### 2. **Iniciar el Registro**
    - Haz clic en el botón **"Sign up"** en la esquina superior derecha de la página.
+     ![Iniciar el Registro](https://github.com/EstebanRgarciaP/programacion-bioinformatica/blob/main/Garcia_Esteban_Entrega1/Documentacion_github/imagenes/imagenespaso2.png.png)
 
 ### 3. **Completar el Formulario**
    - **Email:** Ingresa tu correo electrónico.
    - **Password:** Crea una contraseña segura.
    - **Username:** Escoge un nombre de usuario único.
-   - **Opt-in para Noticias (opcional):** Decide si deseas recibir noticias de GitHub.
    - Haz clic en **"Continue"**.
+     ![Completar el Formulario](https://github.com/EstebanRgarciaP/programacion-bioinformatica/blob/main/Garcia_Esteban_Entrega1/Documentacion_github/imagenes/imagenespaso3.png.png)
 
-### 4. **Verificar tu Correo Electrónico**
+
+### 5. **Verificar tu Correo Electrónico**
    - Revisa tu bandeja de entrada para el correo de confirmación enviado por GitHub.
    - Haz clic en el enlace proporcionado para verificar tu cuenta.
 
-### 5. **Elegir un Plan**
-   - Selecciona el **plan gratuito** o uno de pago según tus necesidades. 
-     - El plan gratuito incluye repositorios públicos y privados, además de opciones de colaboración básica.
-
 ### 8. **Acceder a tu Cuenta**
    - Tras completar todos los pasos, serás redirigido al tablero principal de GitHub.
+     ![Acceder a tu Cuenta](https://github.com/EstebanRgarciaP/programacion-bioinformatica/blob/main/Garcia_Esteban_Entrega1/Documentacion_github/imagenes/imagenespaso8.png.png)
 ---
 
 ## **Preguntas Frecuentes**
@@ -46,6 +46,9 @@ Este documento proporciona una guía detallada para crear una cuenta en GitHub, 
 
 ### **¿Puedo cambiar mi nombre de usuario después de registrarme?**
    - Sí, puedes hacerlo desde la configuración de tu cuenta. Ten en cuenta que cambiar tu nombre de usuario puede afectar los enlaces a tus repositorios.
+
+### **¿Es gratuito usar GitHub?**
+   - Sí, el plan gratuito incluye funciones básicas suficientes para la mayoría de los usuarios. Los planes pagos ofrecen herramientas avanzadas y más almacenamiento.
 
 ---
 
