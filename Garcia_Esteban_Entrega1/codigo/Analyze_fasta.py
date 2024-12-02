@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 '''
    Written by Esteban Garcia
@@ -8,7 +6,7 @@
 __author__ = "Esteban Garcia"
 __credits__ = ["Esteban Garcia"]
 __license__ = "MIT"
-__version__ = "1.0.0"
+__version__ = "3.13.0"
 __maintainer__ = "Esteban Garcia"
 __email__ = "egarciap@unal.edu.co"
 __status__ = "student"
